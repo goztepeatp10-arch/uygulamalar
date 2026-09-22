@@ -1,0 +1,11 @@
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\obj\Debug\22092026.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\obj\Debug\_22092026.Form1.resources
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\obj\Debug\_22092026.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\obj\Debug\22092026.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\obj\Debug\22092026.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\bin\Debug\22092026.exe.config
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\bin\Debug\22092026.exe
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\bin\Debug\22092026.pdb
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\obj\Debug\22092026.exe
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\obj\Debug\22092026.pdb
+C:\Users\bilsim1pc1\source\repos\22092026\22092026\obj\Debug\_22092026.Form2.resources
