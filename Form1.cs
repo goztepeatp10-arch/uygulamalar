@@ -20,5 +20,61 @@ namespace WindowsFormsApp1
         private void Form1_Load(object sender, EventArgs e)
         {
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double sayi1 = double.Parse(textBox1.Text);
+            double sayi2 = double.Parse(textBox2.Text);
+
+            if (comboBox1.Text == "+")
+            {
+                label1.Text = (sayi1 + sayi2).ToString();
+            }
+            else if (comboBox1.Text == "-")
+            {
+                label1.Text = (sayi1 - sayi2).ToString();
+            }
+            else if (comboBox1.Text == "*")
+            {
+                label1.Text = (sayi1 * sayi2).ToString();
+            }
+            else if (comboBox1.Text == "/")
+            {
+                label1.Text = (sayi1 / sayi2).ToString();
+            }
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            
+        {
+            double sayi1 = Convert.ToDouble(textBox1.Text);
+            double sayi2 = Convert.ToDouble(textBox2.Text);
+
+            if (comboBox1.SelectedItem.ToString() == "+")
+            {
+                label1.Text = (sayi1 + sayi2).ToString();
+            }
+            else if (comboBox1.SelectedItem.ToString() == "-")
+            {
+                label1.Text = (sayi1 - sayi2).ToString();
+            }
+            else if (comboBox1.SelectedItem.ToString() == "*")
+            {
+                label1.Text = (sayi1 * sayi2).ToString();
+            }
+            else if (comboBox1.SelectedItem.ToString() == "/")
+            {
+                if (sayi2 == 0)
+                {
+                    MessageBox.Show("0'a bölme yapılamaz!");
+                    return;
+                }
+
+                label1.Text = (sayi1 / sayi2).ToString();
+            }
+        }
+
     }
+}
 }
