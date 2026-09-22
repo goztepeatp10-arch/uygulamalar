@@ -7,6 +7,6 @@ hello
 spore september
 toodles
 
-#Havalı başlık
+# Havalı başlık
 
-#Havasız başlık
+# Havasız başlık
