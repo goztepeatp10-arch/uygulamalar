@@ -1,5 +1,8 @@
 # uygulamalar
-aaaaaaaaaaaaaaaa nambir         aaaa osman tuuuuş
+aaaaaaaaaaaaaaaa nambir         aaaa osman tuuuuş <br/>
+
+<img width="640" height="640" alt="ab67616d0000b273ebd3fcfe1b233caae926fad1" src="https://github.com/user-attachments/assets/c7d02d92-9d2b-421a-9023-59c1d66149ae" />
+
 
 # Intro
 
