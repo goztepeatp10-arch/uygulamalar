@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\bin\Debug\evethayır.exe.config
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\bin\Debug\evethayır.exe
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\bin\Debug\evethayır.pdb
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\obj\Debug\evethayır.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\obj\Debug\evethayır.Form1.resources
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\obj\Debug\evethayır.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\obj\Debug\evethayır.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\obj\Debug\evethayır.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\obj\Debug\evethayır.exe
+C:\Users\bilsim1pc1\source\repos\evethayır\evethayır\obj\Debug\evethayır.pdb
