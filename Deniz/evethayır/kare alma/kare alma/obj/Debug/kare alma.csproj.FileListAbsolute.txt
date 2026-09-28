@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\bin\Debug\kare alma.exe.config
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\bin\Debug\kare alma.exe
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\bin\Debug\kare alma.pdb
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\obj\Debug\kare alma.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\obj\Debug\kare_alma.Form1.resources
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\obj\Debug\kare_alma.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\obj\Debug\kare alma.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\obj\Debug\kare alma.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\obj\Debug\kare alma.exe
+C:\Users\bilsim1pc1\source\repos\kare alma\kare alma\obj\Debug\kare alma.pdb

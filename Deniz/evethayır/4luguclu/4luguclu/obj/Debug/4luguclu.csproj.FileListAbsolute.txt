@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\bin\Debug\4luguclu.exe.config
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\bin\Debug\4luguclu.exe
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\bin\Debug\4luguclu.pdb
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\obj\Debug\4luguclu.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\obj\Debug\_4luguclu.Form1.resources
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\obj\Debug\_4luguclu.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\obj\Debug\4luguclu.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\obj\Debug\4luguclu.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\obj\Debug\4luguclu.exe
+C:\Users\bilsim1pc1\source\repos\4luguclu\4luguclu\obj\Debug\4luguclu.pdb
