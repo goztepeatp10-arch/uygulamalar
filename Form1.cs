@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace modprogramı
 {
     public partial class Form1 : Form
     {
@@ -17,64 +17,29 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {  
+           int kenar1 = Convert.ToInt16(textBox1.Text);
+            int sonuc = kenar1 * kenar1;
+            textBox2.Text=sonuc.ToString();
+
+
+                   
+        }
+
+        private string ToString(int sonuc)
         {
+            throw new NotImplementedException();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double sayi1 = double.Parse(textBox1.Text);
-            double sayi2 = double.Parse(textBox2.Text);
 
-            if (comboBox1.Text == "+")
-            {
-                label1.Text = (sayi1 + sayi2).ToString();
-            }
-            else if (comboBox1.Text == "-")
-            {
-                label1.Text = (sayi1 - sayi2).ToString();
-            }
-            else if (comboBox1.Text == "*")
-            {
-                label1.Text = (sayi1 * sayi2).ToString();
-            }
-            else if (comboBox1.Text == "/")
-            {
-                label1.Text = (sayi1 / sayi2).ToString();
-            }
         }
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            
-        {
-            double sayi1 = Convert.ToDouble(textBox1.Text);
-            double sayi2 = Convert.ToDouble(textBox2.Text);
-
-            if (comboBox1.SelectedItem.ToString() == "+")
-            {
-                label1.Text = (sayi1 + sayi2).ToString();
-            }
-            else if (comboBox1.SelectedItem.ToString() == "-")
-            {
-                label1.Text = (sayi1 - sayi2).ToString();
-            }
-            else if (comboBox1.SelectedItem.ToString() == "*")
-            {
-                label1.Text = (sayi1 * sayi2).ToString();
-            }
-            else if (comboBox1.SelectedItem.ToString() == "/")
-            {
-                if (sayi2 == 0)
-                {
-                    MessageBox.Show("0'a bölme yapılamaz!");
-                    return;
-                }
-
-                label1.Text = (sayi1 / sayi2).ToString();
-            }
-        }
-
     }
-}
 }
