@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\obj\Debug\furkan630.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\obj\Debug\furkan630.Form1.resources
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\obj\Debug\furkan630.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\obj\Debug\furkan630.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\obj\Debug\furkan630.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\bin\Debug\furkan630.exe.config
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\bin\Debug\furkan630.exe
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\bin\Debug\furkan630.pdb
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\obj\Debug\furkan630.exe
+C:\Users\bilsim1pc1\source\repos\furkan630\furkan630\obj\Debug\furkan630.pdb
