@@ -4,6 +4,8 @@ aaaaaaaaaaaaaaaa nambir         aaaa osman tuuuuş <br/>
 # ANNOUNCEMENT 
 
 <img width="1080" height="1080" alt="6qp9eio1thrh1" src="https://github.com/user-attachments/assets/3ef4e1b3-cea3-4450-a817-0321dfc526ad" />
+<img width="490" height="625" alt="image" src="https://github.com/user-attachments/assets/7f3dfaba-e9cf-4306-bb5c-f341695b055d" />
+
 
 
 hello <br/>
