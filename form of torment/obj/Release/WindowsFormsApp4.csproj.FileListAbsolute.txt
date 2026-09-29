@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe.config
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.pdb
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form1.resources
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.exe
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.pdb
