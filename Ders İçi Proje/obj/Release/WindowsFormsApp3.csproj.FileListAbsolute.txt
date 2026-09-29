@@ -1,0 +1,14 @@
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.config
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.pdb
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Form1.resources
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.pdb
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.exe.manifest
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Release\WindowsFormsApp3.application
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.exe.manifest
+C:\Users\bilsim1pc1\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Release\WindowsFormsApp3.application
