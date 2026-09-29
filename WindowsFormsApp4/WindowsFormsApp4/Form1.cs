@@ -16,30 +16,25 @@ namespace WindowsFormsApp4
         {
             InitializeComponent();
         }
-        int x = 0;
-        private void button1_Click(object sender, EventArgs e)
-        {
-           int x = Convert.ToInt16(textBox1.Text);
-           int sonuc = x * x;
-           label2.Text = sonuc.ToString();
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            int x = Convert.ToInt16(textBox1.Text);
-            int sonuc = x+x+x+x;
-            label2.Text = sonuc.ToString();
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double x = 0;
+            double y = 0;
+            x = Convert.ToInt16(textBox1.Text);
+            y = Convert.ToInt16(textBox2.Text);
+            double sonuc = ((x * x) + (y * y)) / ((x + y) * 3);
+            label3.Text = sonuc.ToString();
         }
     }
 }
