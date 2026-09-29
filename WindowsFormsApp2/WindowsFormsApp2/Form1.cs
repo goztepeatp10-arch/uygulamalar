@@ -17,46 +17,43 @@ namespace WindowsFormsApp2
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             int etiketfiyati;
-            double indirimlifiyati;
-            etiketfiyati = Convert.ToInt32(textBox1.Text);
-            indirimlifiyati = etiketfiyati - etiketfiyati * 0.10;
-            label2.Text = indirimlifiyati.ToString(); 
+            double indirimfiyat;
+            etiketfiyati = Convert.ToInt16(textBox1.Text);
+            indirimfiyat = etiketfiyati - etiketfiyati * 0.10;
+            label2.Text = indirimfiyat.ToString();  
+
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             int etiketfiyati;
-            double indirimlifiyati;
-            etiketfiyati = Convert.ToInt32(textBox1.Text);
-            indirimlifiyati = etiketfiyati - etiketfiyati * 0.25;
-            label2.Text = indirimlifiyati.ToString();
+            double indirimfiyat;
+            etiketfiyati = Convert.ToInt16(textBox1.Text);
+            indirimfiyat = etiketfiyati - etiketfiyati * 0.25;
+            label2.Text =indirimfiyat.ToString();
+
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             int etiketfiyati;
-            double indirimlifiyati;
-            etiketfiyati = Convert.ToInt32(textBox1.Text);
-            indirimlifiyati = etiketfiyati - etiketfiyati * 0.50;
-            label2.Text = indirimlifiyati.ToString();
+            double indirimfiyat;
+            etiketfiyati = Convert.ToInt16(textBox1.Text);
+            indirimfiyat = etiketfiyati - etiketfiyati * 0.50;
+            label2.Text = indirimfiyat.ToString();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             int etiketfiyati;
-            double indirimlifiyati;
-            etiketfiyati = Convert.ToInt32(textBox1.Text);
-            indirimlifiyati = etiketfiyati - etiketfiyati * 0.75;
-            label2.Text = indirimlifiyati.ToString();
+            double indirimfiyat;
+            etiketfiyati = Convert.ToInt16(textBox1.Text);
+            indirimfiyat = etiketfiyati - etiketfiyati * 0.75;
+            label2.Text = indirimfiyat.ToString();
         }
     }
 }
