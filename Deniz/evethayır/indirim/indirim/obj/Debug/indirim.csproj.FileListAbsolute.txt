@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\bin\Debug\indirim.exe.config
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\bin\Debug\indirim.exe
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\bin\Debug\indirim.pdb
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\obj\Debug\indirim.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\obj\Debug\indirim.Form1.resources
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\obj\Debug\indirim.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\obj\Debug\indirim.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\obj\Debug\indirim.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\obj\Debug\indirim.exe
+C:\Users\bilsim1pc1\source\repos\indirim\indirim\obj\Debug\indirim.pdb

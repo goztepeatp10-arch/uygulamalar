@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\double\double\bin\Debug\@double.exe.config
+C:\Users\bilsim1pc1\source\repos\double\double\bin\Debug\@double.exe
+C:\Users\bilsim1pc1\source\repos\double\double\bin\Debug\@double.pdb
+C:\Users\bilsim1pc1\source\repos\double\double\obj\Debug\double.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\double\double\obj\Debug\double.Form1.resources
+C:\Users\bilsim1pc1\source\repos\double\double\obj\Debug\double.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\double\double\obj\Debug\double.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\double\double\obj\Debug\double.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\double\double\obj\Debug\@double.exe
+C:\Users\bilsim1pc1\source\repos\double\double\obj\Debug\@double.pdb
