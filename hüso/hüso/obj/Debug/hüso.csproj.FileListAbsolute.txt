@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\bin\Debug\hüso.exe.config
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\bin\Debug\hüso.exe
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\bin\Debug\hüso.pdb
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\obj\Debug\hüso.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\obj\Debug\hüso.Form1.resources
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\obj\Debug\hüso.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\obj\Debug\hüso.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\obj\Debug\hüso.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\obj\Debug\hüso.exe
+C:\Users\bilsim1pc1\source\repos\hüso\hüso\obj\Debug\hüso.pdb
