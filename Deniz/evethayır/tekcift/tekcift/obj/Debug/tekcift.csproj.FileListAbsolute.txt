@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\bin\Debug\tekcift.exe.config
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\bin\Debug\tekcift.exe
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\bin\Debug\tekcift.pdb
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\obj\Debug\tekcift.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\obj\Debug\tekcift.Form1.resources
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\obj\Debug\tekcift.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\obj\Debug\tekcift.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\obj\Debug\tekcift.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\obj\Debug\tekcift.exe
+C:\Users\bilsim1pc1\source\repos\tekcift\tekcift\obj\Debug\tekcift.pdb
