@@ -1,0 +1,5 @@
+C:\Users\bilsim1pc1\source\repos\ARTIseverim\ARTIseverim\obj\Debug\ARTIseverim.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\ARTIseverim\ARTIseverim\obj\Debug\ARTIseverim.Form1.resources
+C:\Users\bilsim1pc1\source\repos\ARTIseverim\ARTIseverim\obj\Debug\ARTIseverim.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\ARTIseverim\ARTIseverim\obj\Debug\ARTIseverim.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\ARTIseverim\ARTIseverim\obj\Debug\ARTIseverim.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\obj\Debug\sayitahminhavli.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\obj\Debug\sayitahminhavli.Form1.resources
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\obj\Debug\sayitahminhavli.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\obj\Debug\sayitahminhavli.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\obj\Debug\sayitahminhavli.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\bin\Debug\sayitahminhavli.exe.config
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\bin\Debug\sayitahminhavli.exe
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\bin\Debug\sayitahminhavli.pdb
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\obj\Debug\sayitahminhavli.exe
+C:\Users\bilsim1pc1\source\repos\sayitahminhavli\sayitahminhavli\obj\Debug\sayitahminhavli.pdb
