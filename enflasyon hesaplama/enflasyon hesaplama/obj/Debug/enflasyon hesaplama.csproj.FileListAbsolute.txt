@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\bin\Debug\enflasyon hesaplama.exe.config
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\bin\Debug\enflasyon hesaplama.exe
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\bin\Debug\enflasyon hesaplama.pdb
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\obj\Debug\enflasyon hesaplama.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\obj\Debug\enflasyon_hesaplama.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\obj\Debug\enflasyon hesaplama.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\obj\Debug\enflasyon hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\obj\Debug\enflasyon hesaplama.exe
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\obj\Debug\enflasyon hesaplama.pdb
+C:\Users\bilsim1pc1\source\repos\enflasyon hesaplama\enflasyon hesaplama\obj\Debug\alp_para.Form1.resources
