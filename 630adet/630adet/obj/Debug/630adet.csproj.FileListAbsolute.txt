@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\bin\Debug\630adet.exe.config
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\bin\Debug\630adet.exe
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\bin\Debug\630adet.pdb
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\obj\Debug\630adet.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\obj\Debug\_630adet.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\obj\Debug\_630adet.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\obj\Debug\630adet.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\obj\Debug\630adet.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\obj\Debug\630adet.exe
+C:\Users\bilsim1pc1\source\repos\630adet\630adet\obj\Debug\630adet.pdb
