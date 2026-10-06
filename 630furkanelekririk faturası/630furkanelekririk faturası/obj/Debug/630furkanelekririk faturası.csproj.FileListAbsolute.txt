@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\bin\Debug\630furkanelekririk faturası.exe.config
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\bin\Debug\630furkanelekririk faturası.exe
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\bin\Debug\630furkanelekririk faturası.pdb
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\obj\Debug\630furkanelekririk faturası.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\obj\Debug\_630furkanelekririk_faturası.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\obj\Debug\_630furkanelekririk_faturası.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\obj\Debug\630furkanelekririk faturası.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\obj\Debug\630furkanelekririk faturası.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\obj\Debug\630furkanelekririk faturası.exe
+C:\Users\bilsim1pc1\source\repos\630furkanelekririk faturası\630furkanelekririk faturası\obj\Debug\630furkanelekririk faturası.pdb
