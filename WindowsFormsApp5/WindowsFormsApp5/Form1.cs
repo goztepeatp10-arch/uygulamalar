@@ -19,30 +19,33 @@ namespace WindowsFormsApp5
 
         private void button1_Click(object sender, EventArgs e)
         {
-           
-        {
-            
-            double sinav1 = Convert.ToDouble(textBox1.Text);
-            double sinav2 = Convert.ToDouble(textBox2.Text);
-            double proje = Convert.ToDouble(textBox3.Text);
-            int devamsizlik = Convert.ToInt32(textBox4.Text);
+            int adet = Convert.ToInt32(textBox1.Text);
+            double birimfiyat = Convert.ToDouble(textBox2.Text);
 
-           
-            double ortalama = (sinav1 + sinav2 + proje) / 3;
 
-            
-            if (ortalama > 50 && devamsizlik < 20)
+            double toplamtutar = adet * birimfiyat;
+            double indirimorani = 0;
+
+
+            if (adet >= 10)
             {
-                label5.Text = "Geçtiniz";
-              
+                indirimorani = 0.10;
             }
-            else
+            else if (adet >= 5)
             {
-                label5.Text = "Kaldınız";
-               
+                indirimorani = 0.05;
             }
+
+
+            double nettutar = toplamtutar * (1 - indirimorani);
+
+
+            label3.Text = nettutar.ToString("0.00") + " TL";
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
-}
 }
