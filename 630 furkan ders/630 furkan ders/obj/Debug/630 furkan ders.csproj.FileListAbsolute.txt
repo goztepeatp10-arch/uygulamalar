@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\bin\Debug\630 furkan ders.exe.config
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\bin\Debug\630 furkan ders.exe
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\bin\Debug\630 furkan ders.pdb
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\obj\Debug\630 furkan ders.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\obj\Debug\_630_furkan_ders.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\obj\Debug\_630_furkan_ders.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\obj\Debug\630 furkan ders.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\obj\Debug\630 furkan ders.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\obj\Debug\630 furkan ders.exe
+C:\Users\bilsim1pc1\source\repos\630 furkan ders\630 furkan ders\obj\Debug\630 furkan ders.pdb
