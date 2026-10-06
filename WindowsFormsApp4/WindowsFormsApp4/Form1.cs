@@ -20,6 +20,7 @@ namespace WindowsFormsApp4
         private void button1_Click(object sender, EventArgs e)
         {
             
+
         {
            
             int adet = Convert.ToInt32(textBox1.Text);
