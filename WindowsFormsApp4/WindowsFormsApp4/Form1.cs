@@ -16,19 +16,36 @@ namespace WindowsFormsApp4
         {
             InitializeComponent();
         }
-         double x = 0;
+
         private void button1_Click(object sender, EventArgs e)
         {
-            x = Convert.ToInt16(textBox1.Text);
-            double sonuc = x * 0.18;
-            label1.Text = sonuc.ToString();
+            
+        {
+           
+            int adet = Convert.ToInt32(textBox1.Text);
+            double birimfiyat = Convert.ToDouble(textBox2.Text);
+
+           
+            double toplamtutar = adet * birimfiyat;
+            double indirimorani = 0;
+
+           
+            if (adet >= 10)
+            {
+                indirimorani = 0.10;
+            }
+            else if (adet >= 5)
+            {
+                indirimorani = 0.05;
+            }
+
+          
+            double nettutar = toplamtutar * (1 - indirimorani);
+
+           
+            label3.Text = nettutar.ToString("0.00") + " TL";
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            x = Convert.ToInt16(textBox1.Text);
-            double sonuc = x * 0.18;
-            label1.Text = sonuc.ToString();
-        }
     }
+}
 }
