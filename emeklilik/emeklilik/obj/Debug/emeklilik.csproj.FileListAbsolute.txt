@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\bin\Debug\emeklilik.exe.config
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\bin\Debug\emeklilik.exe
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\bin\Debug\emeklilik.pdb
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\obj\Debug\emeklilik.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\obj\Debug\emeklilik.Form1.resources
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\obj\Debug\emeklilik.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\obj\Debug\emeklilik.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\obj\Debug\emeklilik.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\obj\Debug\emeklilik.exe
+C:\Users\bilsim1pc1\source\repos\emeklilik\emeklilik\obj\Debug\emeklilik.pdb
