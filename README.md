@@ -16,7 +16,7 @@ the cycle continues <br/>
 <br/>
 toodles <br/>
 
-<img width="558" height="550" alt="images (2)" src="https://github.com/user-attachments/assets/7c5146b1-2a3d-4ddb-9b95-ba4d03a654ed" />
+<img width="540" height="540" alt="fqhcrmah14uh1" src="https://github.com/user-attachments/assets/f03c368d-78dc-4038-bb75-3d010c09608c" />
 
 # Havalı başlık
 
