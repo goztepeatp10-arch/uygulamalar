@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\bin\Debug\DİRENÇ SORUSU.exe.config
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\bin\Debug\DİRENÇ SORUSU.exe
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\bin\Debug\DİRENÇ SORUSU.pdb
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\obj\Debug\DİRENÇ SORUSU.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\obj\Debug\DİRENÇ_SORUSU.Form1.resources
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\obj\Debug\DİRENÇ_SORUSU.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\obj\Debug\DİRENÇ SORUSU.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\obj\Debug\DİRENÇ SORUSU.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\obj\Debug\DİRENÇ SORUSU.exe
+C:\Users\bilsim1pc1\source\repos\DİRENÇ SORUSU\DİRENÇ SORUSU\obj\Debug\DİRENÇ SORUSU.pdb
