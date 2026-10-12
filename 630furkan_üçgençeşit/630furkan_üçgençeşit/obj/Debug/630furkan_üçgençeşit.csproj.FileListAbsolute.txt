@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\obj\Debug\630furkan_üçgençeşit.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\obj\Debug\_630furkan_üçgençeşit.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\obj\Debug\_630furkan_üçgençeşit.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\obj\Debug\630furkan_üçgençeşit.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\obj\Debug\630furkan_üçgençeşit.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\bin\Debug\630furkan_üçgençeşit.exe.config
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\bin\Debug\630furkan_üçgençeşit.exe
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\bin\Debug\630furkan_üçgençeşit.pdb
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\obj\Debug\630furkan_üçgençeşit.exe
+C:\Users\bilsim1pc1\source\repos\630furkan_üçgençeşit\630furkan_üçgençeşit\obj\Debug\630furkan_üçgençeşit.pdb
