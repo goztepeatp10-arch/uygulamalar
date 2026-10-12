@@ -16,16 +16,36 @@ namespace WindowsFormsApp3
         {
             InitializeComponent();
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
-           double x = 0;
-           double y = 0;
-           x = Convert.ToInt16(textBox1.Text);
-           y = Convert.ToInt16(textBox2.Text);
-            double sonuc = ((x * x) + (y * y)) /( (x + y) * 3);
-            label3.Text = sonuc.ToString();
-           
+            int gun = Convert.ToInt32(DateTime.Now.DayOfWeek);
+            switch (gun)
+            {
+                case 1:
+                    MessageBox.Show("Pazartesi");
+                    break;
+                case 2:
+                    MessageBox.Show("Salı");
+                    break;
+                case 3:
+                    MessageBox.Show("Çarşamba");
+                    break;
+                case 4:
+                    MessageBox.Show("Perşembe");
+                    break;
+                case 5:
+                    MessageBox.Show("Cuma");
+                    break;
+                case 6:
+                    MessageBox.Show("Cumartesi");
+                    break;
+                case 0:
+                    MessageBox.Show("Pazar");
+                    break;
+                default:
+                    MessageBox.Show("Hata oluştu.");
+                    break;
+            }
         }
     }
 }
