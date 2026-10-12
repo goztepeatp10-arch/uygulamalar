@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\bin\Debug\630furkan_alan_cevree.exe.config
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\bin\Debug\630furkan_alan_cevree.exe
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\bin\Debug\630furkan_alan_cevree.pdb
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\obj\Debug\630furkan_alan_cevree.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\obj\Debug\_630furkan_alan_cevree.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\obj\Debug\_630furkan_alan_cevree.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\obj\Debug\630furkan_alan_cevree.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\obj\Debug\630furkan_alan_cevree.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\obj\Debug\630furkan_alan_cevree.exe
+C:\Users\bilsim1pc1\source\repos\630furkan_alan_cevree\630furkan_alan_cevree\obj\Debug\630furkan_alan_cevree.pdb
