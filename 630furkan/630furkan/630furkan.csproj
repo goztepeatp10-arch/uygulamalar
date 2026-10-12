@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{59F5550D-015A-4C9B-B26E-EC190B5B4C0B}</ProjectGuid>
+    <ProjectGuid>{0014B7D4-EB36-43CB-AEE5-C82A47700C9F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>_630furkan</RootNamespace>
     <AssemblyName>630furkan</AssemblyName>
