@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\bin\Debug\630furkan_direnç.exe.config
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\bin\Debug\630furkan_direnç.exe
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\bin\Debug\630furkan_direnç.pdb
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\obj\Debug\630furkan_direnç.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\obj\Debug\_630furkan_direnç.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\obj\Debug\_630furkan_direnç.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\obj\Debug\630furkan_direnç.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\obj\Debug\630furkan_direnç.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\obj\Debug\630furkan_direnç.exe
+C:\Users\bilsim1pc1\source\repos\630furkan_direnç\630furkan_direnç\obj\Debug\630furkan_direnç.pdb
