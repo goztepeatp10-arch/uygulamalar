@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\bin\Debug\switch uygulama 1.exe.config
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\bin\Debug\switch uygulama 1.exe
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\bin\Debug\switch uygulama 1.pdb
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\obj\Debug\switch uygulama 1.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\obj\Debug\switch_uygulama_1.Form1.resources
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\obj\Debug\switch_uygulama_1.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\obj\Debug\switch uygulama 1.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\obj\Debug\switch uygulama 1.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\obj\Debug\switch uygulama 1.exe
+C:\Users\bilsim1pc1\source\repos\switch uygulama 1\switch uygulama 1\obj\Debug\switch uygulama 1.pdb
