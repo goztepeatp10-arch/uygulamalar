@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
 
 namespace WindowsFormsApp2
 {
@@ -16,12 +16,24 @@ namespace WindowsFormsApp2
         public Form1()
         {
             InitializeComponent();
-        // ComboBox'lara seçenekler ekleniyor: 1. comboBox1 -> Şekil, 2. comboBox2 -> İşlem
-        comboBox1.Items.AddRange(new object[] { "Kare", "Dikdörtgen" });
-        comboBox2.Items.AddRange(new object[] { "Çevre", "Alan" });
-        // Varsayılan seçim yapmıyoruz; kullanıcı seçimini zorunlu kılmak için -1 bırakıyoruz
-        comboBox1.SelectedIndex = -1;
-        comboBox2.SelectedIndex = -1;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int galibiyet = + Convert.ToInt32(textBox1.Text);
+            int toplamPuan = 0;
+
+            if (radioButton1.Checked) 
+            {
+                int beraberlik =  Convert.ToInt32(textBox2.Text);
+                toplamPuan = (galibiyet * 3) + (beraberlik * 1);
+            }
+            else if (radioButton2.Checked) 
+            {
+                toplamPuan = galibiyet * 2;
+            }
+
+            label3.Text = toplamPuan.ToString();
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -29,40 +41,25 @@ namespace WindowsFormsApp2
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            if (!int.TryParse(textBox1.Text.Trim(), out int galibiyet) || galibiyet < 0)
-            {
-                MessageBox.Show("Lütfen geçerli bir Galibiyet sayısı girin (0 veya pozitif tam sayı).", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-
-            if (!int.TryParse(textBox2.Text.Trim(), out int beraberlik) || beraberlik < 0)
-            {
-                MessageBox.Show("Lütfen geçerli bir Beraberlik sayısı girin (0 veya pozitif tam sayı).", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-
-            int puan = 0;
-
             if (radioButton1.Checked)
             {
-                puan = galibiyet * 3 + beraberlik * 1;
+                label2.Visible = true;    
+                textBox2.Visible = true; 
             }
-            else if (radioButton2.Checked)
-            {
-                puan = galibiyet * 2 + beraberlik * 1;
-            }
-            else
-            {
-                MessageBox.Show("Lütfen Futbol veya Basketbol seçin.", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                return;
-            }
-
-            label3.Text = "Puan: " + puan.ToString();
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton2.Checked)
+            {
+                label2.Visible = false;
+                textBox2.Visible = false;
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
@@ -73,118 +70,56 @@ namespace WindowsFormsApp2
             int kenar2 = Convert.ToInt32(textBox4.Text);
             int kenar3 = Convert.ToInt32(textBox5.Text);
 
+            
             if (kenar1 == kenar2 && kenar2 == kenar3)
             {
+                
                 label7.Text = "Eşkenar Üçgen";
             }
             else if (kenar1 == kenar2 || kenar1 == kenar3 || kenar2 == kenar3)
             {
+                
                 label7.Text = "İkizkenar Üçgen";
             }
             else
             {
+                
                 label7.Text = "Çeşitkenar Üçgen";
             }
-    }
-
+        }
+        int a = 0; int b = 0;
         private void button3_Click(object sender, EventArgs e)
         {
-            // Seçimlerin null olma ihtimaline karşı güvenli okuma ve doğrulama
-            // (comboBox1: Şekil, comboBox2: İşlem)
-            if (comboBox1.SelectedItem == null)
+
+            a = Convert.ToInt32(textBox6.Text);
+            b = Convert.ToInt32(textBox7.Text);
+            if (radioButton3.Checked)
             {
-                MessageBox.Show("Lütfen bir şekil (Kare veya Dikdörtgen) seçin.", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
+                int alan = a * b;
+                label12.Text = "Alan: " + alan.ToString();
             }
-
-            if (comboBox2.SelectedItem == null)
+            else if (radioButton4.Checked)
             {
-                MessageBox.Show("Lütfen bir işlem (Çevre veya Alan) seçin.", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-
-            // UI: 1. comboBox -> şekil, 2. comboBox -> işlem
-            string islem = comboBox2.SelectedItem.ToString();
-            string sekil = comboBox1.SelectedItem.ToString();
-
-            // Uzunluk alanlarındaki sayıları alıyoruz (Kare için sadece 'a' yeterlidir)
-            int a;
-            if (!int.TryParse(textBox6.Text, out a))
-            {
-                MessageBox.Show("Lütfen geçerli bir sayı girin (a).", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
-
-            int b = 0;
-
-            // Eğer Dikdörtgen seçildiyse b uzunluğunu da dönüştürüyoruz
-            if (sekil == "Dikdörtgen")
-            {
-                if (!int.TryParse(textBox7.Text, out b))
-                {
-                    MessageBox.Show("Lütfen geçerli bir sayı girin (b).", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    return;
-                }
-            }
-
-            int sonuc = 0;
-
-            // Şekil KARE ise yapılacak işlemler
-            if (sekil == "Kare")
-            {
-                if (islem == "Çevre")
-                {
-                    sonuc = 4 * a; // Karenin Çevresi
-                }
-                else if (islem == "Alan")
-                {
-                    sonuc = a * a; // Karenin Alanı
-                }
-            }
-            // Şekil DİKDÖRTGEN ise yapılacak işlemler
-            else if (sekil == "Dikdörtgen")
-            {
-                if (islem == "Çevre")
-                {
-                    sonuc = 2 * (a + b); // Dikdörtgenin Çevresi
-                }
-                else if (islem == "Alan")
-                {
-                    sonuc = a * b; // Dikdörtgenin Alanı
-                }
-            }
-
-            // Bulunan sonucu ekrandaki etikete yazdırıyoruz
-            label12.Text = sonuc.ToString();
-        }
-
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-            {
-                
-            }
-           
-            {
+                int cevre = 2 * (a + b);
+                label12.Text = "Çevre: " + cevre.ToString();
             }
         }
-
+        int boy2 = 0;
         private void button4_Click(object sender, EventArgs e)
         {
-            // 1. Adım: Kutulardaki dirençleri tam sayıya çevir
-            int r1 = Convert.ToInt32(textBox8.Text);
-            int r2 = Convert.ToInt32(textBox9.Text);
-            int r3 = Convert.ToInt32(textBox10.Text);
-
-            // 2. Adım: Seri bağlı dirençleri topla ve yazdır
-            int seriSonuc = r1 + r2 + r3;
-            label18.Text = seriSonuc.ToString();
-
-            // 3. Adım: Paralel bağlı dirençleri hesapla ve yazdır
-            // Ondalıklı çıkma ihtimaline karşı double kullandık
-            double paralelSonuc = 1 / ((1.0 / r1) + (1.0 / r2) + (1.0 / r3));
-            label19.Text = paralelSonuc.ToString();
+            int boy2 = Convert.ToInt32(textBox9.Text);
+            if (radioButton6.Checked)
+            {
+                int alan = boy2 * boy2;
+                label13.Text = "Alan: " + alan.ToString();
+            }
+            else if (radioButton4.Checked)
+            {
+                int cevre = 4 * boy2;
+                label13.Text = "Çevre: " + cevre.ToString();
+            }
+        }
         }
     }
-}
+    
+
