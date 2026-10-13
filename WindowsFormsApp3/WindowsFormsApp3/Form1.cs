@@ -16,35 +16,43 @@ namespace WindowsFormsApp3
         {
             InitializeComponent();
         }
+
         private void button1_Click(object sender, EventArgs e)
         {
-            int gun = Convert.ToInt32(DateTime.Now.DayOfWeek);
-            switch (gun)
+            int a = Convert.ToInt16(textBox1.Text);
+            int b = Convert.ToInt16(textBox2.Text);
+            int c = Convert.ToInt16(textBox3.Text);
+
+            if (a > 0 && b > 0 && c > 0)
             {
-                case 1:
-                    MessageBox.Show("Pazartesi");
-                    break;
-                case 2:
-                    MessageBox.Show("Salı");
-                    break;
-                case 3:
-                    MessageBox.Show("Çarşamba");
-                    break;
-                case 4:
-                    MessageBox.Show("Perşembe");
-                    break;
-                case 5:
-                    MessageBox.Show("Cuma");
-                    break;
-                case 6:
-                    MessageBox.Show("Cumartesi");
-                    break;
-                case 0:
-                    MessageBox.Show("Pazar");
-                    break;
-                default:
-                    MessageBox.Show("Hata oluştu.");
-                    break;
+
+                if (a + b > c && a + c > b && b + c > a)
+                {
+                    if (a == b || b == c || c == a)
+                    {
+                        label4.Text = "ikizkenar Üçgen";
+                    }
+                    if (b == c && a == b)
+                    {
+                        label4.Text = "Eş Kenar Üçgen";
+                    }
+                    if ((a != b && b != c && a != c))
+
+                    {
+                        label4.Text = "Çeşitkenar üçgen";
+                    }
+                   
+                } else
+                    {
+                        label4.Text = "Üçgen oluşturulamaz";
+
+                    }
+            }
+            else
+            {
+                label4.Text = "degerler 0 dan büyük olmalıdır";
+
+
             }
         }
     }
