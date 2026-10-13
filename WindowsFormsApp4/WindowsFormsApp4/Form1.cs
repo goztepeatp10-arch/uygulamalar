@@ -19,34 +19,30 @@ namespace WindowsFormsApp4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            double siparisTutari = Convert.ToDouble(textBox1.Text);
+            string siparisTuru = (comboBox1.Text);
 
-        {
-           
-            int adet = Convert.ToInt32(textBox1.Text);
-            double birimfiyat = Convert.ToDouble(textBox2.Text);
-
-           
-            double toplamtutar = adet * birimfiyat;
-            double indirimorani = 0;
-
-           
-            if (adet >= 10)
+            if (siparisTutari > 500 && comboBox1.Text == "standart teslimat")
             {
-                indirimorani = 0.10;
+                siparisTutari = 500;
+
             }
-            else if (adet >= 5)
+            else if(siparisTutari >500 &&  comboBox1.Text =="hızlı teslimat")
             {
-                indirimorani = 0.05;
+                siparisTutari = siparisTutari + 50;
             }
+            if (siparisTutari < 500 && comboBox1.Text == "standart teslimat") 
+            {
+                siparisTutari = siparisTutari + 30;
+            }
+            else if(siparisTutari < 500 && comboBox1.Text == "hızlı teslimat")
+            {
+                siparisTutari = siparisTutari + 70;
+            }
+            label3.Text=siparisTutari.ToString();
 
-          
-            double nettutar = toplamtutar * (1 - indirimorani);
-
-           
-            label3.Text = nettutar.ToString("0.00") + " TL";
         }
-
     }
 }
-}
+
+
