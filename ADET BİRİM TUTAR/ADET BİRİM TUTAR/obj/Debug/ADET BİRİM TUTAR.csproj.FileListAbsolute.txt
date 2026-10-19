@@ -1,0 +1,10 @@
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\bin\Debug\ADET BİRİM TUTAR.exe.config
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\bin\Debug\ADET BİRİM TUTAR.exe
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\bin\Debug\ADET BİRİM TUTAR.pdb
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\obj\Debug\ADET BİRİM TUTAR.csproj.AssemblyReference.cache
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\obj\Debug\ADET_BİRİM_TUTAR.Form1.resources
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\obj\Debug\ADET_BİRİM_TUTAR.Properties.Resources.resources
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\obj\Debug\ADET BİRİM TUTAR.csproj.GenerateResource.cache
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\obj\Debug\ADET BİRİM TUTAR.csproj.CoreCompileInputs.cache
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\obj\Debug\ADET BİRİM TUTAR.exe
+C:\Users\irfan\source\repos\ADET BİRİM TUTAR\ADET BİRİM TUTAR\obj\Debug\ADET BİRİM TUTAR.pdb
