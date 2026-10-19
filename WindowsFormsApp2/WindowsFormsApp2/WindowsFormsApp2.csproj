@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1247DE3F-CF67-4682-8F03-AF30D797144B}</ProjectGuid>
+    <ProjectGuid>{891E306B-A449-4C8E-B171-B0A2CCCF051F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>WindowsFormsApp2</RootNamespace>
     <AssemblyName>WindowsFormsApp2</AssemblyName>
