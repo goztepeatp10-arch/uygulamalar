@@ -1,0 +1,10 @@
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\bin\Debug\SAYISAL LOTO.exe.config
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\bin\Debug\SAYISAL LOTO.exe
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\bin\Debug\SAYISAL LOTO.pdb
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\obj\Debug\SAYISAL LOTO.csproj.AssemblyReference.cache
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\obj\Debug\SAYISAL_LOTO.Form1.resources
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\obj\Debug\SAYISAL_LOTO.Properties.Resources.resources
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\obj\Debug\SAYISAL LOTO.csproj.GenerateResource.cache
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\obj\Debug\SAYISAL LOTO.csproj.CoreCompileInputs.cache
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\obj\Debug\SAYISAL LOTO.exe
+C:\Users\irfan\source\repos\SAYISAL LOTO\SAYISAL LOTO\obj\Debug\SAYISAL LOTO.pdb
