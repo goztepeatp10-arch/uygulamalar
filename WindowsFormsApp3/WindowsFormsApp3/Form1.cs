@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -30,30 +31,34 @@ namespace WindowsFormsApp3
                 {
                     if (a == b || b == c || c == a)
                     {
-                        label4.Text = "ikizkenar Üçgen";
+                        label1.Text = "ikizkenar Üçgen";
                     }
                     if (b == c && a == b)
                     {
-                        label4.Text = "Eş Kenar Üçgen";
+                        label1.Text = "Eş Kenar Üçgen";
                     }
                     if ((a != b && b != c && a != c))
 
                     {
-                        label4.Text = "Çeşitkenar üçgen";
+                        label1.Text = "Çeşitkenar üçgen";
                     }
-                   
-                } else
-                    {
-                        label4.Text = "Üçgen oluşturulamaz";
 
-                    }
+                }
+                else
+                {
+                    label1.Text = "Üçgen oluşturulamaz";
+
+                }
             }
             else
             {
-                label4.Text = "degerler 0 dan büyük olmalıdır";
+                label1.Text = "degerler 0 dan büyük olmalıdır";
 
 
             }
         }
     }
 }
+        
+    
+
