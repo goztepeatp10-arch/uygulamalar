@@ -1,0 +1,10 @@
+C:\Users\irfan\source\repos\BANKA\BANKA\bin\Debug\BANKA.exe.config
+C:\Users\irfan\source\repos\BANKA\BANKA\bin\Debug\BANKA.exe
+C:\Users\irfan\source\repos\BANKA\BANKA\bin\Debug\BANKA.pdb
+C:\Users\irfan\source\repos\BANKA\BANKA\obj\Debug\BANKA.csproj.AssemblyReference.cache
+C:\Users\irfan\source\repos\BANKA\BANKA\obj\Debug\BANKA.Form1.resources
+C:\Users\irfan\source\repos\BANKA\BANKA\obj\Debug\BANKA.Properties.Resources.resources
+C:\Users\irfan\source\repos\BANKA\BANKA\obj\Debug\BANKA.csproj.GenerateResource.cache
+C:\Users\irfan\source\repos\BANKA\BANKA\obj\Debug\BANKA.csproj.CoreCompileInputs.cache
+C:\Users\irfan\source\repos\BANKA\BANKA\obj\Debug\BANKA.exe
+C:\Users\irfan\source\repos\BANKA\BANKA\obj\Debug\BANKA.pdb
