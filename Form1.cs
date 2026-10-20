@@ -2,15 +2,13 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.Linq;
-using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace sdf
+namespace _20102026
 {
     public partial class Form1 : Form
     {
@@ -19,115 +17,71 @@ namespace sdf
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
-            int adet = textBox1.Text.Length;
-            int birim = textBox2.Text.Length;
+            int sayi = Convert.ToInt32(textBox1.Text);
+            int toplam = 1;
 
-            if (adet > 5)
+            for (int i = 1; i <= sayi; i++)
             {
-                birim = birim - birim * 100 / 5;
-                label3.Text = "Tutar=" + birim * adet;
+                toplam = toplam * i;
             }
-            else if (adet > 10)
-            {
-                birim = birim - birim * 100 / 10;
-                label3.Text = "Tutar=" + birim * adet;
-            }
-            else
-            {
-                label3.Text = "Tutar=" + birim * adet;
-            }
+
+            label1.Text = "Faktöriyel: " + toplam.ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int adet = textBox3.Text.Length;
-            int birim = textBox4.Text.Length;
+            int sayi = Convert.ToInt32(textBox2.Text);
+            int sayi2 = Convert.ToInt32(textBox3.Text);
+            int toplam = 0;
 
-            if (adet > 350)
+            for (int i = sayi2; i <= sayi; i++)
             {
-                birim = birim + birim * 100 / 5;
-                label3.Text = "Tutar=" + birim * adet;
+                toplam = toplam + i;
+
             }
-            else if (adet > 500)
-            {
-                birim = birim + birim * 100 / 10;
-                label3.Text = "Tutar=" + birim * adet;
-            }
-            else
-            {
-                label3.Text = "Tutar=" + birim * adet;
-            }
+
+            label2.Text = "Toplam: " + toplam.ToString();
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int sinav1 = textBox5.Text.Length;
-            int sinav2 = textBox6.Text.Length;
-            int proje = textBox7.Text.Length;
-            int devamsizlik = textBox8.Text.Length;
 
-            int toplam = sinav1 + sinav2 + proje;
+            int ilkdeger = Convert.ToInt32(textBox4.Text);
+            int sondeger = Convert.ToInt32(textBox5.Text);
 
-            if (devamsizlik > 10)
-            {
-                label13.Text = "Sonuç: Kaldınız";
-            }
-            else if (toplam / 3 < 50)
-            {
-                label13.Text = "Sonuç: Kaldınız";
-            }
-            else
-            {
-                label13.Text = "Sonuç: Geçtiniz";
-            }
-        }
 
-        private void label14_Click(object sender, EventArgs e)
-        {
-        }
+            listBox1.Items.Clear();
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-        }
+            for (int x = ilkdeger; x <= sondeger; x++)
+            {
+                int sonuc = 0;
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-            double dolar = Convert.ToDouble(textBox9.Text);
-            double euro = Convert.ToDouble(textBox10.Text);
-            double tl = Convert.ToDouble(textBox11.Text);
-            double para = Convert.ToDouble(textBox12.Text);
+                if (x < 0)
+                {
+                    sonuc = 0;
+                }
+                else if (x == 0)
+                {
+                    sonuc = 1;
+                }
+                else if (x > 0)
+                {
+                    sonuc = (x * x) + 5; 
+                }
 
-            if (radioButton1.Checked == true)
-            {
-                double sonuc = para / dolar;
-                label14.Text = "Sonuç: " + sonuc.ToString("0.00") + " Dolar";
-            }
-            if (radioButton2.Checked == true)
-            {
-                double sonuc = para / euro;
-                label14.Text = "Sonuç: " + sonuc.ToString("0.00") + " Euro";
-            }
-            if (radioButton3.Checked == true)
-            {
-                double sonuc = para / tl;
-                label14.Text = "Sonuç: " + sonuc.ToString("0.00") + " TL";
-            }
-            if (radioButton4.Checked == true)
-            {
-                double sonuc = para * dolar;
-                label14.Text = "Sonuç: " + sonuc.ToString("0.00") + " Dolar";
-            }
-            if (radioButton5.Checked == true)
-            {
-                double sonuc = para * euro;
-                label14.Text = "Sonuç: " + sonuc.ToString("0.00") + " Euro";
-            }
-            if (radioButton6.Checked == true)
-            {
-                double sonuc = para * tl;
-                label14.Text = "Sonuç: " + sonuc.ToString("0.00") + " TL";
+                listBox1.Items.Add("x=" + x.ToString() + " için; " + sonuc.ToString());
             }
         }
     }
