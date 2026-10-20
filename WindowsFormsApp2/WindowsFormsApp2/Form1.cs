@@ -19,28 +19,14 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 9; i++)
-
+            int sayi = Convert.ToInt32(textBox1.Text);
+            long faktoriyel = 1;
+            for (int i = 1; i <= sayi; i++)
             {
-                MessageBox.Show(textBox1.Text);
-            }
-        }
+                faktoriyel *= i;
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-       
-        private void button2_Click(object sender, EventArgs e)
-        {
-            listBox1.Items.Clear();
-            int bas = Convert.ToInt32(textBox3.Text);
-            int bitis = Convert.ToInt32(textBox2.Text);
-            for (int i = bitis; i >=bas;i--)
-            {
-                  if(i%3==0) listBox1.Items.Add(i);
-                    
             }
+            label1.Text= faktoriyel.ToString();
         }
     }
 }
