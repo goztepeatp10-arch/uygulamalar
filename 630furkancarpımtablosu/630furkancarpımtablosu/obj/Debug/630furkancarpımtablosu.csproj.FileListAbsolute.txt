@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\bin\Debug\630furkancarpımtablosu.exe.config
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\bin\Debug\630furkancarpımtablosu.exe
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\bin\Debug\630furkancarpımtablosu.pdb
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\obj\Debug\630furkancarpımtablosu.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\obj\Debug\_630furkancarpımtablosu.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\obj\Debug\_630furkancarpımtablosu.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\obj\Debug\630furkancarpımtablosu.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\obj\Debug\630furkancarpımtablosu.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\obj\Debug\630furkancarpımtablosu.exe
+C:\Users\bilsim1pc1\source\repos\630furkancarpımtablosu\630furkancarpımtablosu\obj\Debug\630furkancarpımtablosu.pdb
