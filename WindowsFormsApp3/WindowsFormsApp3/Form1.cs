@@ -16,26 +16,34 @@ namespace WindowsFormsApp3
         {
             InitializeComponent();
         }
-        
+
         private void button1_Click(object sender, EventArgs e)
         {
-            Random rastgele = new Random();
+            for (int i = 0; i <= 100; i++) 
+            if (i < 50)
+            {
+                if (i % 2 == 0)
+                {
+                    listBox1.Items.Add(i);
+                }
 
 
-            int sayi1 = rastgele.Next(1, 50);
-            int sayi2 = rastgele.Next(1, 50);
-            int sayi3 = rastgele.Next(1, 50);
-            int sayi4 = rastgele.Next(1, 50);
-            int sayi5 = rastgele.Next(1, 50);
-            int sayi6 = rastgele.Next(1, 50);
+            }
+            else
+            {
+                if (i % 2 != 0)
+                {
+
+                    listBox1.Items.Add(i);
 
 
-            textBox1.Text = sayi1.ToString();
-            textBox2.Text = sayi2.ToString();
-            textBox3.Text = sayi3.ToString();
-            textBox4.Text = sayi4.ToString();
-            textBox5.Text = sayi5.ToString();
-            textBox6.Text = sayi6.ToString();
+                }
+
+            }
         }
     }
 }
+
+    
+
+
