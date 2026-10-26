@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\bin\Debug\İLHAN 8.exe.config
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\bin\Debug\İLHAN 8.exe
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\bin\Debug\İLHAN 8.pdb
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\obj\Debug\İLHAN 8.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\obj\Debug\İLHAN_8.Form1.resources
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\obj\Debug\İLHAN_8.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\obj\Debug\İLHAN 8.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\obj\Debug\İLHAN 8.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\obj\Debug\İLHAN 8.exe
+C:\Users\bilsim1pc1\source\repos\İLHAN 8\İLHAN 8\obj\Debug\İLHAN 8.pdb
