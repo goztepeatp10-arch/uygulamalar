@@ -19,14 +19,31 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int sayi = Convert.ToInt32(textBox1.Text);
-            long faktoriyel = 1;
-            for (int i = 1; i <= sayi; i++)
-            {
-                faktoriyel *= i;
 
+
+            for (int i = 0; i <= 100; i++)
+            {
+                if (i < 50)
+                {
+                    if (i % 2 == 0)
+                    {
+                        listBox1.Items.Add(i);
+                    }
+
+
+                }
+                else
+                {
+                    if (i % 2 != 0)
+                    {
+
+                        listBox1.Items.Add(i);
+                        
+
+                    }
+
+                }
             }
-            label1.Text= faktoriyel.ToString();
         }
     }
 }
