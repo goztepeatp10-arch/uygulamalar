@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -19,33 +20,43 @@ namespace WindowsFormsApp5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int adet = Convert.ToInt32(textBox1.Text);
-            double birimfiyat = Convert.ToDouble(textBox2.Text);
-
-
-            double toplamtutar = adet * birimfiyat;
-            double indirimorani = 0;
-
-
-            if (adet >= 10)
             {
-                indirimorani = 0.10;
+                int etiketFiyati;
+                double indirimliFiyat;
+                etiketFiyati = Convert.ToInt32(textBox1.Text);
+                indirimliFiyat = etiketFiyati - etiketFiyati * 0.10; //Yüzde 10 indirim
+                label1.Text = indirimliFiyat.ToString();
+
             }
-            else if (adet >= 5)
-            {
-                indirimorani = 0.05;
-            }
-
-
-            double nettutar = toplamtutar * (1 - indirimorani);
-
-
-            label3.Text = nettutar.ToString("0.00") + " TL";
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
+            int etiketFiyati;
+            double indirimliFiyat;
+            etiketFiyati = Convert.ToInt32(textBox1.Text);
+            indirimliFiyat = etiketFiyati - etiketFiyati * 0.25; //Yüzde 25 indirim
+            label1.Text = indirimliFiyat.ToString();
+        }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int etiketFiyati;
+            double indirimliFiyat;
+            etiketFiyati = Convert.ToInt32(textBox1.Text);
+            indirimliFiyat = etiketFiyati - etiketFiyati * 0.50; //Yüzde 50 indirim
+            label1.Text = indirimliFiyat.ToString();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int etiketFiyati;
+            double indirimliFiyat;
+            etiketFiyati = Convert.ToInt32(textBox1.Text);
+            indirimliFiyat = etiketFiyati - etiketFiyati * 0.75; //Yüzde 75 indirim
+            label1.Text = indirimliFiyat.ToString();
         }
     }
 }
+        
+   
