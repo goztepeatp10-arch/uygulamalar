@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\bin\Debug\630furkanebob.exe.config
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\bin\Debug\630furkanebob.exe
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\bin\Debug\630furkanebob.pdb
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\obj\Debug\630furkanebob.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\obj\Debug\_630furkanebob.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\obj\Debug\_630furkanebob.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\obj\Debug\630furkanebob.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\obj\Debug\630furkanebob.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\obj\Debug\630furkanebob.exe
+C:\Users\bilsim1pc1\source\repos\630furkanebob\630furkanebob\obj\Debug\630furkanebob.pdb
