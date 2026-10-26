@@ -1,0 +1,165 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp3
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < 10; i++)
+            {
+
+                for (int a = 0; a < 10; a++)
+                    listBox2.Items.Add(i + "x" + a + " = " + (i * a));
+
+
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+            for (int x = 1; x <= int.Parse(textBox1.Text); x++)
+                for (int y = 1; y <= int.Parse(textBox2.Text); y++)
+                    listBox1.Items.Add($"x={x}, y={y} için; 3*{x}+{y}^2+3={3 * x + y * y + 3}");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int tek = 0, cift = 0;
+            for (int i = 1; i <= int.Parse(textBox3.Text); i++)
+                if (i % 2 == 0) cift += i; 
+                else tek += i;
+
+            label2.Text = "Tek Sayıların Toplamı: " + tek;
+            label1.Text = "Çift Sayıların Toplamı: " + cift;
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int sayi = int.Parse(textBox4.Text);
+            int asal = 1;
+
+            if (sayi <= 1)
+                asal = 0;
+
+            for (int i = 2; i < sayi; i++)
+            {
+                if (sayi % i == 0)
+                    asal = 0;
+            }
+
+            if (asal == 1)
+                label5.Text = "Sayı Asal";
+            else
+                label5.Text = "Sayı Asal Değil";
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int sayi = int.Parse(textBox5.Text), toplam = 0;
+
+            for (int i = 1; i < sayi; i++)
+                if (sayi % i == 0) toplam += i;
+
+            label7.Text = toplam == sayi ? "Sayı Mükemmeldir" : "Sayı Mükemmel Değildir";
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            listBox3.Items.Clear();
+            int n = int.Parse(textBox6.Text);
+
+            for (int i = 2; i <= n; i++)
+            {
+                int asal = 1;
+
+                for (int j = 2; j < i; j++)
+                {
+                    if (i % j == 0)
+                        asal = 0;
+                }
+
+                if (asal == 1)
+                    listBox3.Items.Add(i);
+            }
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            int s1 = int.Parse(textBox7.Text);
+            int s2 = int.Parse(textBox8.Text);
+
+            int a = s1, b = s2, t;
+
+            for (; b != 0;)
+            {
+                t = b;
+                b = a % b;
+                a = t;
+            }
+
+            label10.Text = $"EBOB({s1},{s2})={a}";
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            listBox4.Items.Clear();
+
+            int n = int.Parse(textBox9.Text);
+            int sayi = 2, adet = 0;
+
+            for (; adet < n; sayi++)
+            {
+                int bolen = 0;
+
+                for (int i = 2; i < sayi; i++)
+                {
+                    if (sayi % i == 0)
+                        bolen++;
+                }
+
+                if (bolen == 0)
+                {
+                    listBox4.Items.Add(sayi);
+                    adet++;
+                }
+            }
+
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+    
+    
+    
+    
+}
