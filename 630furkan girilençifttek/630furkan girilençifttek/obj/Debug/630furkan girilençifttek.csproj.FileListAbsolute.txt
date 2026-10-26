@@ -1,0 +1,10 @@
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\bin\Debug\630furkan girilençifttek.exe.config
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\bin\Debug\630furkan girilençifttek.exe
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\bin\Debug\630furkan girilençifttek.pdb
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\obj\Debug\630furkan girilençifttek.csproj.AssemblyReference.cache
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\obj\Debug\_630furkan_girilençifttek.Form1.resources
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\obj\Debug\_630furkan_girilençifttek.Properties.Resources.resources
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\obj\Debug\630furkan girilençifttek.csproj.GenerateResource.cache
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\obj\Debug\630furkan girilençifttek.csproj.CoreCompileInputs.cache
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\obj\Debug\630furkan girilençifttek.exe
+C:\Users\bilsim1pc1\source\repos\630furkan girilençifttek\630furkan girilençifttek\obj\Debug\630furkan girilençifttek.pdb
